@@ -1,16 +1,12 @@
-### Hi there 👋
+### About Me
 
-<!--
-**leanfish2011/leanfish2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Nickname: Lean Fish
+- Education: Master of Computer Science
+- Skills: Java, Python, Architecture Design
+- Hobbies: Reading, Writing, Piano
+- Cantact: leanfish2011@163.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Product
+#### WebPhotoshop
+- Show: <https://leanfish2011.github.io/WebPhotoshop-Simple/>
+- Code: <https://github.com/leanfish2011/WebPhotoshop-Simple>
