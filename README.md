@@ -10,3 +10,5 @@
 #### WebPhotoshop
 - Show: <https://leanfish2011.github.io/WebPhotoshop-Simple/>
 - Code: <https://github.com/leanfish2011/WebPhotoshop-Simple>
+- 绘制效果展示：
+![WebPhotoshop绘制展示1](https://raw.githubusercontent.com/leanfish2011/WebPhotoshop-Simple/master/Images/1.png)
