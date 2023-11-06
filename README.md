@@ -2,7 +2,7 @@
 
 - 教育：计算机硕士
 - 技能：Java、软件架构
-- 爱好：阅读、写作、钢琴
+- 爱好：阅读、写作
 - 邮箱：leanfish2011@163.com
 - 博客：<a href="https://leanfish2011.github.io" target="_blank">Tim's Blog</a>
 
